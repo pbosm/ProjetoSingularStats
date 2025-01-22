@@ -1,5 +1,5 @@
 
-# SingularStats
+# SingularStats (PROJETO INTEGRADOR IFSC)
 
 Um website que mostra dados estatísticos sobre times de e-sports da liga brasileira de League of Legends, para auxiliar coaches, analistas, especialistas, e pessoas que tiverem interesse pelos dados.
 
